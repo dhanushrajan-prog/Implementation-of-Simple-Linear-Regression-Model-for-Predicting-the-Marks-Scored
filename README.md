@@ -1,6 +1,6 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-##NAME:DHANUSH RAJAN .T
-##REF.no:250137437
+#NAME:DHANUSH RAJAN .T
+#REF.no:250137437
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
